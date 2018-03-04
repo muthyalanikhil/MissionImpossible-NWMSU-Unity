@@ -10,6 +10,14 @@ TagManager:
   - Wall
   - Enemy
   - unlockKey
+  - TrapDoor
+  - coins
+  - health
+  - coinsCount
+  - gameOver
+  - gameOverCollider
+  - WinTXT
+  - Goal
   layers:
   - Default
   - TransparentFX

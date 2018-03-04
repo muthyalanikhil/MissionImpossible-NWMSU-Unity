@@ -72,7 +72,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1541199136256728}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.2, y: -1.7, z: 0}
+  m_LocalPosition: {x: -13.3, y: -1.5, z: 0}
   m_LocalScale: {x: 6, y: 6, z: 1}
   m_Children:
   - {fileID: 4321824522504388}
@@ -99,7 +99,7 @@ Camera:
   far clip plane: 100
   field of view: 48
   orthographic: 1
-  orthographic size: 4.0822563
+  orthographic size: 5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -314,6 +314,7 @@ MonoBehaviour:
   health: 0
   laserAudioClip: {fileID: 8300000, guid: a6c71a27a54f74c49a4b12a0a17ec572, type: 3}
   jumpAudioClip: {fileID: 8300000, guid: a02db67772b81ea4390f7f15c090263f, type: 3}
+  coinAudioClip: {fileID: 8300000, guid: 56d78fed8b5cbb543b5765a2e777ba26, type: 3}
 --- !u!124 &124435524317183214
 Behaviour:
   m_ObjectHideFlags: 1
